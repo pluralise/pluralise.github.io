@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Second year PhD student in synthetic biology at the University of Bristol
+PhD researcher based in the [Biocompute Lab](https://biocomputelab.github.io/) at the University of Bristol
 
 ### Interests:
 \- microbiology - bioinformatics - sustainability - responsible innovation -
