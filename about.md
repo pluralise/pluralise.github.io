@@ -5,13 +5,14 @@ permalink: /about/
 published: true
 ---
 
-Second year PhD student at the University of Bristol
+Second year PhD student in synthetic biology at the University of Bristol
 
-### More Information
-
-Interests:
+### Interests:
 - microbiology - bioinformatics - sustainability - responsible innovation -
 
-### Contact me
+### Current Projects:
 
-matthew dot tarnowski1 at gmail dot com
+- Multiplexed characterisation of genetic part variants
+- Studying the evolution of synthetic genetic circuits
+- President of [SynBio UK](https://twitter.com/synbiouk?lang=en)
+- My allotment
