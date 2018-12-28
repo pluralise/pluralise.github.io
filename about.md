@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Second year PhD student at the University of Bristol
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interests:
+- microbiology - bioinformatics - sustainability - responsible innovation -
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+matthew dot tarnowski1 at gmail dot com
