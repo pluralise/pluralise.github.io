@@ -7,6 +7,11 @@ published: true
 
 PhD researcher based in the [Biocompute Lab](https://biocomputelab.github.io/) at the University of Bristol
 
+### More about me:
+- [Linked-in (including up to date CV)](https://www.linkedin.com/in/matt-tarnowski/)
+- [Talks](https://biocomputelab.github.io/team/matt-tarnowski/)
+- [Twitter](https://twitter.com/synbioscientist)
+
 ### Interests:
 \- microbiology - soil - [genetics](https://en.wikipedia.org/wiki/DNA_sequencing) - fermenting - permaculture - responsible innovation - music - making the university useful for all -
 
