@@ -5,10 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Microbiology PhD researcher at the University of Bristol. Learning, sharing and loving life in all its infinite forms. Dreaming of pluralised, decolonised universities and landscapes.
+Microbiology PhD researcher at the University of Bristol. Learning, sharing and loving life in all its infinite forms. Dreaming of pluralised, decolonised mindsets, education and landscapes.
 
 Some interests:
-- soil - gardening - fermenting - permaculture - indigenous knowledge - responsible research and innovation - decolonisation - music - genetics - DNA sequencing - play - science and technology studies - 
+_\- fermenting - permaculture - indigenous knowledge - responsible research and innovation - decolonisation - music - genetics - DNA sequencing - play - science and technology studies - soil - growing -_
 
 
 ### Peek inside my life:
@@ -17,7 +17,7 @@ Some interests:
 - [Facebook](https://www.facebook.com/pg/Co_evolver-100613874996522/posts/)
 - [Blog](https://pluralise.github.io/)
 - [Linked-in (including an old CV)](https://www.linkedin.com/in/matt-tarnowski/)
-- [Research Group Profile](https://biocomputelab.github.io/team/matt-tarnowski/)
+- [Research group profile](https://biocomputelab.github.io/team/matt-tarnowski/)
 
 ### Current Projects:
 
