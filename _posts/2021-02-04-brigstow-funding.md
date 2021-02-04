@@ -3,7 +3,7 @@ layout: post
 title: 2021 brigstow seedcorn funding application
 published: true
 ---
-## :Application for funding for South-West Agroecology Network
+## South-West Agroecology Network Funding Application
 
 - A recent application for [this Brigstow Seedcorn Funding](http://www.bristol.ac.uk/brigstow/funding/seedcorn-funding)
 
@@ -19,18 +19,17 @@ Once rooted in ecologies, our food systems have been replaced by exploitative ag
 **ACCESS TO LAND: How does access to land affect the uptake of agroecology in the south west? What is preventing this access and how could this be overcome?**
 Our farming populations lack diversity in age, gender, and race and this creates socially, politically and environmentally unsustainable farming systems. We will engage landowners, prospective farmers and organisations focussing on land rights to explore what is preventing access to land and how this is affecting the uptake of agroecology in the south west.
 
-**BELIEFS AND BEHAVIOURS: What are the deep set beliefs and behaviours of farmers and academics preventing our food system from making an agroecological transition? **
-We aim to investigate forms of thinking preventing our regional food system from transition to agroecology. In Forms: Whole, Rhythm, Hierarchy, Network, Caroline Levine calls attention to how literary scholars can apply their ‘close reading’ skills to ‘new objects’ in order to ‘seek out pattern over meaning, the intricacy of relations over depth’ [2]. We will take up Levine’s challenge in the context of agroecology.**
+**BELIEFS AND BEHAVIOURS: What are the deep set beliefs and behaviours of farmers and academics preventing our food system from making an agroecological transition?** 
+We aim to investigate forms of thinking preventing our regional food system from transition to agroecology. 
 
 **COLLABORATION: What is the role of collaborative processes in supporting and promoting agroecological systems?**
 Regionally, agroecological activities are supported by farmer-farmer networks. These networks share agroecological ideas too, as do academic networks. We would use participatory mapping and group reflection through play to explore the role of collaboration in transitioning to agroecology in the south-west. 
 
 In this moment of climate, social, economic and cultural transition, agroecology’s vision of humans as a key part of landscapes and ecologies offers meaning and direction to live well by. 
-These research questions address gaps slowing down the transition to environmentally, socially, economically and politically just food systems through which residents can live well in relationship with land. Addressing these questions through critical making enables the network to become-with one another [3]. 
+These research questions address gaps slowing down the transition to environmentally, socially, economically and politically just food systems through which residents can live well in relationship with land. Addressing these questions through critical making enables the network to become-with one another [2]. 
 
-*Third world network (2015). Agroecology: key concepts, principles and practices
-Levine, C. (2015). Forms: Whole, Rhythm, Hierarchy, Network
-Haraway, D. J. (2016). Staying with the trouble: making kin in the Chthulucene*
+*[1] Third world network (2015). Agroecology: key concepts, principles and practices
+[2] Haraway, D. J. (2016). Staying with the trouble: making kin in the Chthulucene*
 
 
 ***Who is involved? What knowledge and expertise do the different members of your interdisciplinary and/or co-produced team bring? Why do you want to work together? Max 500 words***
