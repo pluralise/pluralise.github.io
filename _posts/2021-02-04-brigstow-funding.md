@@ -37,13 +37,7 @@ Haraway, D. J. (2016). Staying with the trouble: making kin in the Chthulucene*
 
 Broadly, network members include academics, agroecology practitioners and non-academic experts (see list at bottom). As a network, we want to work together in order to learn from and grow connections. We all seek to reach towards a common goal: increasing the uptake and ease of agroecology in South-West UK through co-created research.
 
-The following network members would lead the network on particular research questions, all are early-career. Three leads (highlighted with an asterisk) led the Brigstow ideas exchange funding which nurtured the network to this point. 
-
-**ECOLOGICAL LITERACY:** Rosa Beesley, post-graduate at the Centre for Agroecology, Water and Resilience (CAWR) would draw upon experience facilitating diverse groups in urban food systems and growing (with The Matthew Tree Project).
-**ACCESS TO LAND:** Non-academic lead and Rob Owen * Earth Systems post-graduate, currently practitioner in forestry and agroecological consultant with Holistic Restoration.
-**BELIEFS AND BEHAVIOURS:** Jim Scown brings methods and expertise from his soon to finish PhD in environmental history focused on histories and literatures of soil and land.
-**COLLABORATION:** Matthew Tarnowski * transitioning from PhD in synthetic biology (final year) to agroecology research, brings expertise in interdisciplinary research projects, online gatherings and media. Play Wooden CIC, expertise in creating playful spaces that transcend boundaries.
-**PROJECT COORDINATOR:** Dr. Jaskiran Chohan * brings expertise in co-produced research (field research, short-ethnography and interviews) with multiple-stakeholders from campesinos, to academics, civil servants and politicians.
+Network members would lead the network on particular research questions, all are early-career.
 
 The network decided that sociocracy should be utilised as a means of organising. We would arrange 2 training sessions for members. This will allow development of a decentralised organisational structure whereby network members associate into smaller working groups which are able to make decisions swiftly with a minimum of time used for bureaucracy. 
 
