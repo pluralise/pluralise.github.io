@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Microbiology researcher at the University of Bristol. Learning, sharing and loving life in all its infinite forms. Dreaming of pluralised, decolonised mindsets, education and landscapes.
+Microbiology researcher at the University of Bristol. Learning, sharing and loving life in all its infinite forms. Dreaming pluralised, decolonised mindsets, education and landscapes.
 
 Some interests:
 _\- fermenting - permaculture - indigenous knowledge - responsible research and innovation - decolonisation - music - genetics - DNA sequencing - play - science and technology studies - soil - growing -_
